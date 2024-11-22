@@ -1,4 +1,4 @@
-<h1>Space Flappy</h1>
+<h1>Space Journey</h1>
 
   <p>Este é um clone do popular jogo Flappy Bird, desenvolvido utilizando HTML, CSS e JavaScript. O objetivo do jogo é controlar uma nave que deve passar por entre obstáculos sem colidir com eles.</p>
 
